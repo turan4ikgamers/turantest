@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Noto Sans/NotoSans-SemiBold';
+    src: url('../fonts/Noto Sans/NotoSans-SemiBold.ttf')
+    
+} 
+@font-face {
+    font-family:'fonts/NotoSansJP-Light';
+   src: url('../fonts/NotoSansJP-Light.otf')  
+}
+@font-face {
+    font-family:'fonts/NotoSansJP-Medium';
+    src: url('../fonts/NotoSansJP-Medium.otf') 
+}
+@font-face {
+    font-family:'fonts/NotoSansJP-Regular';
+    src: url('../fonts/NotoSansJP-Regular.otf') 
+}
+@font-face {
+    font-family: 'fontAwesome-brands';
+    src: url('../fontAsemo/fa-brands-400.woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'fontAwesome-duatone';
+    src: url('../fontAsemo/fa-duotone-900.woff2');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'fontAwesome-light';
+    src: url('../fontAsemo/fa-light-300.woff2');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'fontAwesome';
+    src: url('../fontAsemo/fa-regular-400.woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'fontAwesome-solid';
+    src: url('../fontAsemo/fa-solid-900.woff2');
+    font-weight: 900;
+}
+.fad {
+    font-family: 'fontAwesome-duatone' ;
+    font-style: normal;
+    font-weight: 900;
+}
+.fab {
+    font-family:'fontAwesome-brands' ;
+    font-style: normal;
+    font-weight: 400px ;
+}
+.fas, .fas, .far, .fa  {
+    font-family: 'fontAwesome';
+    font-style: normal;
+
+}
